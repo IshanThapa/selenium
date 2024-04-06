@@ -1,0 +1,6 @@
+selenium
+pandas
+beautifulsoup4
+webdrivermanager
+
+#source "C:\Users\crucial\miniconda3\Scripts\activate"
